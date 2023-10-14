@@ -1,0 +1,15 @@
+{
+	"show_video" : false,
+	"use_mail" : true,
+	"smtp_server" : "smtp.gmail.com",
+	"smtp_port" : 587,
+	"gmail_username" : "",
+	"gmail_password" : "",
+	"min_upload_seconds" : 5.0,
+	"min_motion_frames" : 3,
+	"camera_warmup_time" : 2.5,
+	"resolution": [640,480],
+	"fps": 16,
+	"min_area": 100,
+	"delta_thresh": 5
+}
